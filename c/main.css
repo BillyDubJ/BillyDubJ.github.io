@@ -22,6 +22,7 @@ footer {
 }
 
 
+/* Fonts */
 @font-face {
 	font-family: AS-R;
 	src: url(../f/AlegreyaSans-Regular.ttf) format("truetype");
