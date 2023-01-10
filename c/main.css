@@ -1,0 +1,64 @@
+
+
+p {
+	
+	font-family: 'AS-R', Arial, sans-serif;
+}
+h1 {
+	
+	font-family: 'AS-B', Arial, sans-serif;
+}
+li {
+	font-family: 'AS-L', Arial, sans-serif;
+
+}
+footer {
+	font-size: .75em;
+	font-family: 'AS-L', Arial, sans-serif;
+}
+
+.italic {
+	font-family: 'AS-I', Arial, sans-serif;
+}
+
+
+@font-face {
+	font-family: AS-R;
+	src: url(../f/AlegreyaSans-Regular.ttf) format("truetype");
+	font-weight: 400;
+	font-style: normal;
+}
+
+ @font-face {
+	font-family: AS-B;
+	src: url(../f/AlegreyaSans-Bold.ttf) format("truetype");
+	font-weight: 700;
+	font-style: normal;
+}
+   @font-face {
+	font-family:AS-I;
+	src: url(../f/AlegreyaSans-Italic.ttf) format("truetype");
+	font-weight: 400;
+	font-style: italic;
+}
+
+ 
+ @font-face {
+	font-family: AS-BL;
+	src: url(../f/AlegreyaSans-Black.ttf) format("truetype");
+	font-weight: 900;
+	font-style: normal;
+}
+ 
+  @font-face {
+	font-family: AS-L;
+	src: url(../f/AlegreyaSans-Light.ttf) format("truetype");
+	font-weight: 300;
+	font-style: normal:;
+}
+@font-face {
+	font-family: AS-LI;
+	src: url(../f/AlegreyaSans-LightItalic.ttf) format("truetype");
+	font-weight: 300;
+	font-style: normal:;
+}
